@@ -1,4 +1,48 @@
-<p align="left">Hi 👋, my name is Pedro Augusto, and I'm currently a Computer Engineering student at the Federal University of Ouro Preto!</p>
+<h2 align="center">Hi 👋, I'm Pedro Augusto!</h2>
+
+###
+
+<h4 align="left">• 👨‍🎓 I’m currently a undergraduate on computer engineering at UFOP.<br><br>• 🖥️ I’m currently learning CPP.<br><br>• 📫 How to reach me pedroaugustoos007@gmail.com</h4>
+
+###
+
+<h2 align="left">Technologies I've already had contact with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="42" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+</div>
+
+###
+
+<h2 align="left">Technologies I'm currently studying</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h2 align="left">Technologies that I intend to delve into in 2024</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="postgresql logo"  />
+</div>
 
 ###
 
