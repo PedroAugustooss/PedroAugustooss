@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">• 👨‍🎓 I’m currently a undergraduate on computer engineering at UFOP.<br><br>• 🖥️ I’m currently learning CPP.<br><br>• 📫 How to reach me pedroaugustoos007@gmail.com</h3>
+<h2 align="left">• 👨‍🎓 I’m currently a undergraduate on computer engineering at UFOP.<br><br>• 🖥️ I’m currently learning CPP.<br><br>• 📫 How to reach me pedroaugustoos007@gmail.com</h3>
 
 ###
 
