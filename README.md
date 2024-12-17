@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Technologies that I intend to delve into in 2024</h2>
+<h2 align="left">Technologies that I intend to delve into.</h2>
 
 ###
 
