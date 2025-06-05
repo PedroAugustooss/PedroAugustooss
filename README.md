@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Augusto!</h1>
+<h2 align="center">Hi 👋, I'm Pedro Augusto!</h2>
 
 ###
 
@@ -11,11 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="42" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
 ###
@@ -25,31 +21,16 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
-</div>
-
-###
-
-<h2 align="left">Technologies that I intend to delve into.</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroAugustooss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="151" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAugustooss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="151" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroAugustooss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAugustooss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
