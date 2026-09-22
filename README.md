@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou Pedro Augusto!
 
-Sou estudante e desenvolvedor em formação, com interesse em programação e desenvolvimento de software. Atualmente, meus principais estudos estão voltados para **C/C++** e **Java**, buscando construir uma base sólida em programação e arquitetura de software.
+Sou estudante e desenvolvedor em formação, com interesse em programação e desenvolvimento de software. Atualmente, meus principais estudos estão voltados para **JavaScript**, buscando construir uma base sólida em programação e arquitetura de software.
 
 ## Tecnologias
 
