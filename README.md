@@ -1,36 +1,19 @@
-<h2 align="center">Hi 👋, I'm Pedro Augusto!</h2>
+# 👨‍💻 Olá, eu sou Pedro Augusto!
 
-###
+Sou estudante e desenvolvedor em formação, com interesse em programação e desenvolvimento de software. Atualmente, meus principais estudos estão voltados para **C/C++** e **Java**, buscando construir uma base sólida em programação e arquitetura de software.
 
-<h3 align="left">• 👨‍🎓 I’m currently a undergraduate on computer engineering at UFOP.<br><br>• 🖥️ I’m currently learning CPP.<br><br>• 📫 How to reach me pedroaugustoos007@gmail.com</h3>
+## Tecnologias
 
-###
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<h2 align="left">Technologies I've already had contact with</h2>
+## Atualmente aprendendo
 
-###
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-</div>
+## Contato
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-martins-pereira-283068284/)
 
-<h2 align="left">Technologies I'm currently studying</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroAugustooss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAugustooss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroaugustoos@gmail.com)
